@@ -1,0 +1,23 @@
+{
+  "name": "koa-boiler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chiangf/koa-boiler.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiangf/koa-boiler/issues"
+  },
+  "homepage": "https://github.com/chiangf/koa-boiler",
+  "dependencies": {
+    "koa": "^1.1.2",
+    "typescript": "^1.7.5"
+  }
+}
